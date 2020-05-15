@@ -1,0 +1,2 @@
+# object_tracking_detectron2
+Object_tracking with Detectron2 on Custom_dataset
